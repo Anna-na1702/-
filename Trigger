@@ -1,0 +1,10 @@
+from turtle import *
+from forest import *
+nebo()
+trava()
+cvecda()
+luna()
+derevo()
+kyst()
+hideturtle()
+exitonclick()
